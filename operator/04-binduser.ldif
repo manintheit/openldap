@@ -1,0 +1,6 @@
+dn: cn=Technischeruser,dc=homelab,dc=io
+cn: Technischeruser
+objectClass: organizationalRole
+objectClass: simpleSecurityObject
+objectClass: top
+userPassword: {SSHA}2wVkhZShl2pJCV7nHE0ctzVlpXATgMcQ

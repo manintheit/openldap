@@ -1,0 +1,15 @@
+dn: ou=posixgroups,dc=homelab,dc=io
+objectClass: organizationalUnit
+objectClass: top
+ou: posixgroups
+
+dn: ou=os,ou=posixgroups,dc=homelab,dc=io
+objectclass: top
+objectclass: organizationalUnit
+ou: os
+
+
+dn: ou=global,ou=os,ou=posixgroups,dc=homelab,dc=io
+objectclass: top
+objectclass: organizationalUnit
+ou: global
