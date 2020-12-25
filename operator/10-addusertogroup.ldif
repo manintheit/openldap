@@ -1,0 +1,5 @@
+dn: cn=vault_user,ou=global,ou=vault,ou=groups,dc=homelab,dc=io
+objectclass: groupofnames
+cn: vault_user
+description: Vault user
+member: cn=mit001,ou=people,ou=it,dc=homelab,dc=io

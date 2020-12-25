@@ -1,0 +1,5 @@
+dn: cn=vault_admin,ou=global,ou=vault,ou=groups,dc=homelab,dc=io
+objectclass: groupofnames
+cn: vault_admin
+description: Vault Administrator
+member: cn=mit002,ou=people,ou=it,dc=homelab,dc=io

@@ -1,0 +1,11 @@
+dn: cn=mit002,ou=people,ou=it,dc=homelab,dc=io
+objectclass: inetOrgPerson
+cn: mit002
+cn: git
+sn: mit002
+uid: mit002
+userpassword: {SSHA}zl1ZWaiz0NhoCcjgWz5eAP52+sspYusB 
+carlicense: Mercedes Benz
+homephone: 122-223-223
+mail: admin@gmail.com
+ou: it

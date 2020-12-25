@@ -1,0 +1,11 @@
+dn: cn=mit001,ou=people,ou=it,dc=homelab,dc=io
+objectclass: inetOrgPerson
+cn: mit001
+cn: jeykl
+sn: mit001
+uid: mit001
+userpassword: {SSHA}f3bL1F3F71SI/EO+w3uIbrxAt5SO9+ez 
+carlicense: VW Golf
+homephone: 555-111-2223
+mail: manintheit@gmail.com
+ou: it
