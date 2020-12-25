@@ -306,16 +306,15 @@ We successfully created our Organization, Groups and Users. You can create more 
 
 Next post will be integrating HashiCorp Vault with OpenLDAP server and mapping HashiCorp Vault policies with OpenLDAP groups.
 
-
 ## Refences
 
-https://dokuwiki.nausch.org/doku.php/centos:ldap_c7:tecbind
-https://dokuwiki.nausch.org/doku.php/centos:ldap_c7:tecbind#konfiguration
-https://www.openldap.org/doc/admin24/access-control.html
-http://docs.adaptivecomputing.com/suite/8-0/basic/Content/topics/additionalConfig/settingUpOpenLDAPOnCentos6.htm
-https://docs.oracle.com/cd/E19396-01/817-7616/ldif.html
-https://ldaptor.readthedocs.io/en/latest/quickstart.html
-https://simp.readthedocs.io/en/master/user_guide/User_Management/LDAP.html
-https://docs.oracle.com/cd/E19424-01/820-4811/baasz/index.htm
-https://www.zytrax.com/books/ldap/ch5/index.html#step1-add
+[https://dokuwiki.nausch.org/doku.php/centos:ldap_c7:tecbind](https://dokuwiki.nausch.org/doku.php/centos:ldap_c7:tecbind)
+[https://dokuwiki.nausch.org/doku.php/centos:ldap_c7:tecbind#konfiguration](https://dokuwiki.nausch.org/doku.php/centos:ldap_c7:tecbind#konfiguration)
+[https://www.openldap.org/doc/admin24/access-control.html](https://www.openldap.org/doc/admin24/access-control.html)
+[http://docs.adaptivecomputing.com/suite/8-0/basic/Content/topics/additionalConfig/settingUpOpenLDAPOnCentos6.htm](http://docs.adaptivecomputing.com/suite/8-0/basic/Content/topics/additionalConfig/settingUpOpenLDAPOnCentos6.htm)
+[https://docs.oracle.com/cd/E19396-01/817-7616/ldif.html](https://docs.oracle.com/cd/E19396-01/817-7616/ldif.html)
+[https://ldaptor.readthedocs.io/en/latest/quickstart.html](https://ldaptor.readthedocs.io/en/latest/quickstart.html)
+[https://simp.readthedocs.io/en/master/user_guide/User_Management/LDAP.html](https://simp.readthedocs.io/en/master/user_guide/User_Management/LDAP.html)
+[https://docs.oracle.com/cd/E19424-01/820-4811/baasz/index.htm](https://docs.oracle.com/cd/E19424-01/820-4811/baasz/index.htm)
+[https://www.zytrax.com/books/ldap/ch5/index.html#step1-add](https://www.zytrax.com/books/ldap/ch5/index.html#step1-add)
 
